@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HttpServer/HttpServer.iml" filepath="$PROJECT_DIR$/HttpServer/HttpServer.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Netty-learn.iml" filepath="$PROJECT_DIR$/.idea/Netty-learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleChat/SimpleChat.iml" filepath="$PROJECT_DIR$/SimpleChat/SimpleChat.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
     </modules>
   </component>
